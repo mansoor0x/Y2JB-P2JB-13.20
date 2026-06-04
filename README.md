@@ -38,8 +38,8 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/mansoor0x/PS5-Script-Sender.git
-cd PS5-Script-Sender
+git clone https://github.com/mansoor0x/Y2JB+P2JB-13.20.git
+cd Y2JB+P2JB-13.20
 
 # Run
-python ps5_sender.py
+python PS5SE.py
