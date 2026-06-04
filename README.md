@@ -35,11 +35,3 @@
 2. Run directly (no Python needed)
 
 ### Method 2: Run from source
-
-```bash
-# Clone repository
-git clone https://github.com/mansoor0x/PS5-Script-Sender.git
-cd PS5-Script-Sender
-
-# Run
-python ps5_sender.py
