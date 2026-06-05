@@ -29,7 +29,7 @@
 
 ### Method 1: Download EXE
 
-[![Download](https://img.shields.io/badge/Download-EXE-green.svg)](https://github.com/mansoor0x/PS5-Script-Sender/releases)
+[![Download](https://img.shields.io/badge/Download-EXE-green.svg)](https://github.com/mansoor0x/Y2JB-P2JB-13.20/blob/main/PS5_Script_Sender.exe)
 
 1. Download `PS5_Script_Sender.exe` from Releases
 2. Run directly (no Python needed)
